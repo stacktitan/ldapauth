@@ -4,7 +4,7 @@
 LDAP authentication made easier. Borrows some high level details from Gitlab.
 
 ### Example
-```
+```go
 package main
 
 type User struct {
