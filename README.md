@@ -1,5 +1,5 @@
 # ldapauth
-[![](https://godoc.org/github.com/tomsteele/ldapauth?status.svg)](http://godoc.org/github.com/tomsteele/ldapauth)
+[![](https://godoc.org/github.com/stacktitan/ldapauth?status.svg)](http://godoc.org/github.com/stacktitan/ldapauth)
 
 LDAP authentication made easier. Borrows some high level details from Gitlab.
 
@@ -55,8 +55,3 @@ func main() {
 }
 
 ```
-
-### Contributors
-* Chris Patten
-* Dan Kottmann
-* Tom Steele
